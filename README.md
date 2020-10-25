@@ -1,4 +1,4 @@
-Counter
+# Counter
 
 ## How to run
 
